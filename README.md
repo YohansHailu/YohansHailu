@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Backend a
 
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yohans-hailu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yohans-hailu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yohanshailu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yohans-hailu/)
 [![Email](https://img.shields.io/badge/Email-yohanshailukasaw@gmail.com-blue?style=flat&logo=gmail)](mailto:yohanshailukasaw@gmail.com)
 
 
