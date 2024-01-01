@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Yohans!
 
 Welcome to my GitHub profile! I'm passionate about Web Development and Backend and many more , and I love building solid and impactfull products.
 
@@ -9,20 +9,31 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Backend a
 - 👯 I'm open to collaborations and discussions.
 
 ## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&color=2bbc8a)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white&color=2bbc8a)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white&color=2bbc8a)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 
-![Tech1](https://img.shields.io/badge/Tech-Name-informational?style=flat&logo=tech-logo&logoColor=white&color=2bbc8a)
-![Tech2](https://img.shields.io/badge/Tech-Name-informational?style=flat&logo=tech-logo&logoColor=white&color=2bbc8a)
-![Tech3](https://img.shields.io/badge/Tech-Name-informational?style=flat&logo=tech-logo&logoColor=white&color=2bbc8a)
+
 
 ## 📊 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&count_private=true&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YourUsername)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&count_private=true&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YohansHailu)
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue?style=flat&logo=twitter)](https://twitter.com/yourtwitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-9cf?style=flat)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yohans-hailu/)
 
 
 Feel free to reach out🚀
