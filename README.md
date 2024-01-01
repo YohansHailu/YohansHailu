@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Backend a
 
 ## 📊 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&count_private=true&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YohansHailu)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YohansHailu&count_private=true&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YohansHailu)
 
 ## 🌐 Connect with Me
 
