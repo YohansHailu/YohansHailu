@@ -31,10 +31,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Backend a
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YohansHailu&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/YohansHailu)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YohansHailu&layout=compact&theme=radical)](https://github.com/YohansHailu)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YohansHailu&theme=radical)](https://github.com/YohansHailu)
-![Profile Views](https://komarev.com/ghpvc/?username=YohansHailu&color=blueviolet)
 [![GitHub Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=YohansHailu&theme=radical&sideNums=FFFFFF)](https://github.com/YohansHailu)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YohansHailu&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YohansHailu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🌐 Connect with Me
