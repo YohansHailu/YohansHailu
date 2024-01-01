@@ -27,31 +27,19 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Backend a
 
 
 
-## 📊 GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YohansHailu&count_private=true&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YohansHailu)
-
 # 📊 GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YohansHailu&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/YohansHailu)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YohansHailu&layout=compact&theme=radical)](https://github.com/YohansHailu)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YohansHailu&theme=radical)](https://github.com/YohansHailu)
-[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=YohansHailu&count_private=true&show_icons=true&hide=contribs,prs&theme=radical&custom_title=Contributions%20in%20the%20Last%20Year)](https://github.com/YohansHailu)
 ![Profile Views](https://komarev.com/ghpvc/?username=YohansHailu&color=blueviolet)
 [![GitHub Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=YohansHailu&theme=radical&sideNums=FFFFFF)](https://github.com/YohansHailu)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YohansHailu&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YohansHailu&theme=radical)](https://github.com/YohansHailu)
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YohansHailu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Readme Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=YohansHailu&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 
 
 ## 🌐 Connect with Me
-
-
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yohans-hailu/)
+[![Email](https://img.shields.io/badge/Email-yohanshailukasaw@gmail.com-blue?style=flat&logo=gmail)](mailto:yohanshailukasaw@gmail.com)
 
 
 Feel free to reach out🚀
